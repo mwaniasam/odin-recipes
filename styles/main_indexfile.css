@@ -1,0 +1,18 @@
+/* This is the universal selctor, it selects all elements! */
+
+* {
+    background-color: rgb(18, 241, 212);
+    color: rgb(5, 5, 3);
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+}
+
+.recipes ul li a{
+    color: black;
+    font-size: 50px;
+}
